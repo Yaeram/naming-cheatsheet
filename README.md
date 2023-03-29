@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 12345678910111213
-=======
 12345678910
->>>>>>> 9eb16414f6209935396c72ef6d36937215d60195
-=======
 1234567
->>>>>>> branch2
+final
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
